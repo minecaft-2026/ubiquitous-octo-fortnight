@@ -17,7 +17,7 @@ local T1UIColor = {
     ["Border Color"] = Color3.fromRGB(50, 50, 50),
     ["Click Effect Color"] = Color3.fromRGB(200, 40, 40),
     ["Setting Icon Color"] = Color3.fromRGB(200, 200, 200),
-    ["Logo Image"] = "rbxassetid://105245380363493",
+    ["Logo Image"] = "rbxassetid://85499905225554",
     ["Search Icon Color"] = Color3.fromRGB(200, 40, 40),
     ["Search Icon Highlight Color"] = Color3.fromRGB(255, 60, 60),
     ["GUI Text Color"] = Color3.fromRGB(240, 240, 240),
@@ -170,7 +170,7 @@ ImageLabel.Size = UDim2.new(0, 40, 0, 40)
 ImageLabel.BackgroundTransparency = 1
 ImageLabel.BorderSizePixel = 0
 ImageLabel.ImageColor3 = Color3.fromRGB(255, 255, 255)
-ImageLabel.Image = "rbxassetid://105245380363493"
+ImageLabel.Image = "rbxassetid://85499905225554"
 
 local isToggled = getgenv().UIToggled or false
 local isHovering = false
